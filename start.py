@@ -52,3 +52,7 @@ subprocess.run(['python', 'processes\py\offset_points.py'])
 time.sleep(5)
 
 subprocess.run(['python', 'processes\py\out_suicides.py'])
+
+time.sleep(5)
+
+subprocess.run(['python', 'processes\py\round_score.py'])
