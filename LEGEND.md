@@ -3,13 +3,13 @@
 ```\x08 \x08Kill: 6 1 4: Player_172.19.117.18 killed Player_172.19.137.208 by MOD_GRENADE```
 
 (prefix) (attacker_id) (victim_id) (weapon_id) (attacker_ip_name) (victim_ip_name) (weapon_name)
-- prefix: \x08 \x08Kill:
-- attacker_id: 6
-- victim_id: 1
-- weapon_id: 4
-- attacker: Player_172.19.117.18
-- victim: Player_172.19.137.208
-- weapon: MOD_GRENADE
+	•	prefix: \x08 \x08Kill:
+	•	attacker_id: 6
+	•	victim_id: 1
+	•	weapon_id: 4
+	•	attacker: Player_172.19.117.18
+	•	victim: Player_172.19.137.208
+	•	weapon: MOD_GRENADE
 
 ## PlayerScore
 ```\x08 \x08PlayerScore: 6 1: Player_172.19.117.18 now has 1 points```
