@@ -48,46 +48,46 @@
 
 
 # Client Number Assignment
-- Client 1: Player_172.19.137.208
-- Client 2: Player_172.19.114.48
-- Client 3: Player_172.19.119.51
-- Client 4: Player_172.19.116.18
-- Client 5: Player_172.19.120.104
-- Client 6: Player_172.19.117.18
+- Client ```1```: Player_172.19.137.208
+- Client ```2```: Player_172.19.114.48
+- Client ```3```: Player_172.19.119.51
+- Client ```4```: Player_172.19.116.18
+- Client ```5```: Player_172.19.120.104
+- Client ```6```: Player_172.19.117.18
 
 # Dataframe Headers
-- timestamp: The exact time when the event occurred.
-- event: Type of event (e.g., Kill, PlayerScore, Challenge).
-- killer_id: ID of the player who made the kill (for Kill events).
-- victim_id: ID of the player who was killed (for Kill events).
-- weapon_id: ID of the weapon used (for Kill events).
-- killer_ip: IP address of the player who made the kill.
-- victim_ip: IP address of the player who was killed.
-- weapon: Type of weapon used (for Kill events).
-- player_id: ID of the player involved in the event.
-- score: Score of the player (for PlayerScore events).
-- player_ip: IP address of the player (for PlayerScore events).
-- award_id: ID of the award given (for Challenge events).
+- ```timestamp```: The exact time when the event occurred.
+- ```event```: Type of event (e.g., Kill, PlayerScore, Challenge).
+- ```killer_id```: ID of the player who made the kill (for Kill events).
+- ```victim_id```: ID of the player who was killed (for Kill events).
+- ```weapon_id```: ID of the weapon used (for Kill events).
+- ```killer_ip```: IP address of the player who made the kill.
+- ```victim_ip```: IP address of the player who was killed.
+- ```weapon```: Type of weapon used (for Kill events).
+- ```player_id```: ID of the player involved in the event.
+- ```score```: Score of the player (for PlayerScore events).
+- ```player_ip```: IP address of the player (for PlayerScore events).
+- ```award_id```: ID of the award given (for Challenge events).
 
 # Maps
-- kaos2 - break round, enclosed arena
-- aggressor - indoor map, players can die from lava (MOD_LAVA)
-- wrackdm17 - outdoor map, players can fall to their death (MOD_FALLING)
+- ```kaos2```: break round, enclosed arena
+- ```aggressor```: indoor map, players can die from lava (MOD_LAVA)
+- ```wrackdm17```: outdoor map, players can fall to their death (MOD_FALLING)
 
 # Types of weapons and IDs
-- MOD_SHOTGUN: 1
-- MOD_GAUNTLET: 2
-- MOD_MACHINEGUN: 3
-- MOD_GRENADE: 4
-- MOD_GRENADE_SPLASH: 5
-- MOD_ROCKET: 6
-- MOD_ROCKET_SPLASH: 7
-- MOD_PLASMA: 8
-- MOD_PLASMA_SPLASH: 9
-- MOD_RAILGUN: 10
-- MOD_LIGHTNING: 11
-- MOD_LAVA: 16
-- MOD_TELEFRAG: 18
-- MOD_FALLING: 19
-- MOD_SUICIDE: 20
-- MOD_TRIGGER_HURT: 22
+- MOD_SHOTGUN: ```1```
+- MOD_GAUNTLET: ```2```
+- MOD_MACHINEGUN: ```3```
+- MOD_GRENADE: ```4```
+- MOD_GRENADE_SPLASH: ```5```
+- MOD_ROCKET: ```6```
+- MOD_ROCKET_SPLASH: ```7```
+- MOD_PLASMA: ```8```
+- MOD_PLASMA_SPLASH: ```9```
+- MOD_RAILGUN: ```10```
+- MOD_LIGHTNING: ```11```
+- MOD_LAVA: ```16```
+- MOD_TELEFRAG: ```18```
+- MOD_FALLING: ```19```
+- MOD_SUICIDE: ```20```
+- MOD_TRIGGER_HURT: ```22```
