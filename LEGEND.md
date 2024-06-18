@@ -26,6 +26,7 @@
 ```\x08 \x08Challenge: 6 402 1: Client 6 got award 402```
 
 (prefix) (client_id) (award_id) (count) (client) (award)
+
 	•	prefix: \x08 \x08Challenge:
 	•	client_id: 6
 	•	award_id: 402
